@@ -1,5 +1,11 @@
 test file for checking git commands
 
+<<<<<<< HEAD
 adding few more lines for checking merge
 
 this is the file for checking the git rebase
+=======
+
+
+checking the merge file one more time
+>>>>>>> test
